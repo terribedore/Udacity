@@ -5,11 +5,11 @@ Links to all the Udacity Front End Dev stuff I've worked on.
 
 ## Round 2, Grow With Google Challenge / Front End Dev nanodegree
 
-[Lab 1: Animal Trading Cards]()
+[Lab 1: Animal Trading Cards]
 
 [Project 1: Portfolio](https://github.com/terribedore/gwg-r2-fend-project1-portfolio)
 
-[Lab 2: Pixel Art Maker]()
+[Lab 2: Pixel Art Maker]
 
 [Project 2: Memory Game]()
 
