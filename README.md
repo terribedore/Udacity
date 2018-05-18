@@ -11,14 +11,14 @@ Links to all the Udacity Front End Dev stuff I've worked on.
 
 [Lab 2: Pixel Art Maker]
 
-[Project 2: Memory Game]()
+[Project 2: Memory Game]
 
-[Project 3: Classic Arcade Game Clone]()
+[Project 3: Classic Arcade Game Clone]
 
-[Project 4: Feed Reader Testing]()
+[Project 4: Feed Reader Testing]
 
-[Project 5: Restaurant Reviews App - Stage 1]()
+[Project 5: Restaurant Reviews App - Stage 1]
 
-[Project 5: My Reads; A Book Tracking App]()
+[Project 5: My Reads; A Book Tracking App]
 
-[Project 6: Neighborhood Map (React)]()
+[Project 6: Neighborhood Map (React)]
