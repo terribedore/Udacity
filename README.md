@@ -26,7 +26,11 @@ Links to all the Udacity Front End Dev stuff I've worked on.
 ## Style Guides
 
 Style Guides as of 04 October 2018.
+
 [HTML](https://github.com/terribedore/Udacity/blob/master/HTML_Udacity_Nanodegree_Style_Guide.pdf)
+
 [CSS](https://github.com/terribedore/Udacity/blob/master/CSS_Udacity_Nanodegree_Style_Guide.pdf)
+
 [JavaScript](https://github.com/terribedore/Udacity/blob/master/JavaScript_Udacity_Nanodegree_Style_Guide.pdf)
+
 [Git](https://github.com/terribedore/Udacity/blob/master/Git_Udacity_Nanodegree_Style_Guide.pdf)
