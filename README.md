@@ -9,9 +9,9 @@ Links to all the Udacity Front End Dev stuff I've worked on.
 
 [Project 1: Portfolio](https://github.com/terribedore/gwg-r2-fend-project1-portfolio)
 
-[Lab 2: Pixel Art Maker]
+~~[Lab 2: Pixel Art Maker]~~ Removed from Required Curriculum as of 07 August 2018 due to 'technical issues'.
 
-[Project 2: Memory Game]
+[Project 2: Memory Game](https://github.com/terribedore/fend-project-memory-game)
 
 [Project 3: Classic Arcade Game Clone]
 
