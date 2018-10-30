@@ -15,7 +15,7 @@ Links to all the Udacity Front End Dev stuff I've worked on.
 
 [Project 3: Classic Arcade Game Clone](https://github.com/terribedore/frontend-nanodegree-arcade-game)
 
-[Project 4: Feed Reader Testing]
+[Project 4: Feed Reader Testing](https://github.com/terribedore/frontend-nanodegree-feedreader)
 
 [Project 5: Restaurant Reviews App - Stage 1]
 
