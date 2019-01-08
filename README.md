@@ -17,9 +17,9 @@ Links to all the Udacity Front End Dev stuff I've worked on.
 
 [Project 4: Feed Reader Testing](https://github.com/terribedore/frontend-nanodegree-feedreader)
 
-[Project 5: Restaurant Reviews App - Stage 1]
+[Project 5: Restaurant Reviews App - Stage 1](https://github.com/terribedore/mws-restaurant-stage-1)
 
-[Project 5: My Reads; A Book Tracking App]
+[Project 5: My Reads; A Book Tracking App](https://github.com/terribedore/reactnd-project-myreads-starter)
 
 [Project 6: Neighborhood Map (React)]
 
